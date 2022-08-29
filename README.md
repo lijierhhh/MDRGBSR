@@ -1,4 +1,4 @@
-# MDRGB
+# MDRGBSR
 The code for paper Multilayer Degradation Representation-Guided Blind Super-Resolution for Remote Sensing Images
 
 # Dataset
